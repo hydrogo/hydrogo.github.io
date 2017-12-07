@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-# I am Georgy Ayzel
+I am Georgy Ayzel
 
 And this is how I work, think and live (actually not).
 
@@ -44,4 +44,3 @@ You are welcome to enjoy my posts about life and using open-source tools in hydr
 * I believe in the victory of scientists over officials
 * Harder work stronger results
 * Memento Mori
-

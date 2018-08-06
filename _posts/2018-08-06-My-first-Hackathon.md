@@ -4,6 +4,8 @@ title: My first hackathon
 published: true
 date: '2018-08-06'
 ---
+and the story of how I failed. Twice.
+
 Hey there!
 
 It is my first attempt to write a blog post in English, so don't be mad at my writing skills and [let me speak from my heart](https://www.youtube.com/watch?v=y6xNL41CB9o)!
